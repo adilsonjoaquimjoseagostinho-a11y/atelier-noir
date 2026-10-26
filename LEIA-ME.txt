@@ -1,0 +1,12 @@
+ATELIER NOIR — PRO V4
+
+- Site institucional responsivo para desktop, tablet e mobile.
+- Menu mobile expansível; todas as secções continuam disponíveis em ecrãs pequenos.
+- Capa original mantida.
+- A secção cinematográfica foi reconstruída com 240 fotogramas WebP extraídos do vídeo original. O scroll seleciona diretamente o fotograma correspondente, evitando os saltos e atrasos típicos de currentTime/seek em vídeo MP4.
+- Os fotogramas estão em /frames. Não mova o index.html para fora da pasta.
+
+Para testar: extraia o ZIP e abra index.html com VS Code + Live Server.
+Preços, morada, horário e telefone são demonstrativos. Atualize-os antes de publicar.
+
+VERSÃO 5 — efeitos adicionais de texto e entrada sequencial das três imagens da galeria. A lógica do vídeo/canvas e a sincronização com o scroll foram mantidas sem alterações.
